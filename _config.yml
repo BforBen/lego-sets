@@ -1,0 +1,7 @@
+exclude:
+  - .gitignore
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - convert-csv.rb
+  - sets.csv
