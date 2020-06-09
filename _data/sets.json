@@ -688,6 +688,74 @@
     "Hide": false
   },
   {
+    "Code": 21322,
+    "Name": "Pirates of Barracuda Bay",
+    "Theme": "LEGO Ideas",
+    "Note": null,
+    "Image": "https://www.lego.com/biassets/prodimg/21322-0000-xx-12-1.jpg",
+    "Launch year": 2020,
+    "Instructions": [
+      {
+        "description": "BI 3104, 456+4/65+200G, 21322 V.29/118",
+        "pdfLocation": "https://www.lego.com/biassets/bi/6324263.pdf",
+        "downloadSize": "190.27 MB",
+        "frontpageInfo": "https://www.lego.com/biassets/biimg/6324263.png",
+        "oNum": 0,
+        "isAlternative": false
+      },
+      {
+        "description": "BI 3104, 456+4/65+200G, 21322 V.39/142",
+        "pdfLocation": "https://www.lego.com/biassets/bi/6324265.pdf",
+        "downloadSize": "191.84 MB",
+        "frontpageInfo": "https://www.lego.com/biassets/biimg/6324265.png",
+        "oNum": 0,
+        "isAlternative": false
+      },
+      {
+        "description": "Digital Booklet - DE",
+        "pdfLocation": "https://www.lego.com/r/www/r/service/-/media/franchises/customer%20service/ideas/21322/21322_pirate_bay_420x300_bi%20de.pdf?l.r2=-1914862053",
+        "downloadSize": "14.15 MB",
+        "frontpageInfo": "https://www.lego.com/r/www/r/service/-/media/service/service%202015/building%20instructions/ideas%20thumbs/21322.png?l.r2=-1214516992",
+        "oNum": 0,
+        "isAlternative": false
+      },
+      {
+        "description": "Digital Booklet - ES",
+        "pdfLocation": "https://www.lego.com/r/www/r/service/-/media/franchises/customer%20service/ideas/21322/21322_pirate_bay_420x300_bi%20es.pdf?l.r2=-1732601806",
+        "downloadSize": "",
+        "frontpageInfo": "https://www.lego.com/r/www/r/service/-/media/service/service%202015/building%20instructions/ideas%20thumbs/21322.png?l.r2=-1214516992",
+        "oNum": 0,
+        "isAlternative": false
+      },
+      {
+        "description": "Digital Booklet - FR",
+        "pdfLocation": "https://www.lego.com/r/www/r/service/-/media/franchises/customer%20service/ideas/21322/21322_pirate_bay_420x300_bi%20fr.pdf?l.r2=1085093501",
+        "downloadSize": "",
+        "frontpageInfo": "https://www.lego.com/r/www/r/service/-/media/service/service%202015/building%20instructions/ideas%20thumbs/21322.png?l.r2=-1214516992",
+        "oNum": 0,
+        "isAlternative": false
+      },
+      {
+        "description": "Digital Booklet - IT",
+        "pdfLocation": "https://www.lego.com/r/www/r/service/-/media/franchises/customer%20service/ideas/21322/21322_pirate_bay_420x300_bi%20it.pdf?l.r2=-740176168",
+        "downloadSize": "",
+        "frontpageInfo": "https://www.lego.com/r/www/r/service/-/media/service/service%202015/building%20instructions/ideas%20thumbs/21322.png?l.r2=-1214516992",
+        "oNum": 0,
+        "isAlternative": false
+      },
+      {
+        "description": "Digital Booklet - ZH",
+        "pdfLocation": "https://www.lego.com/r/www/r/service/-/media/franchises/customer%20service/ideas/21322/21322_pirate_bay_420x300_bi%20zh.pdf?l.r2=-1340170932",
+        "downloadSize": "",
+        "frontpageInfo": "https://www.lego.com/r/www/r/service/-/media/service/service%202015/building%20instructions/ideas%20thumbs/21322.png?l.r2=-1214516992",
+        "oNum": 0,
+        "isAlternative": false
+      }
+    ],
+    "Searched": true,
+    "Hide": false
+  },
+  {
     "Code": 30143,
     "Name": "Chopper Transporter",
     "Theme": "LEGO Creator",
@@ -1023,6 +1091,42 @@
         "pdfLocation": "https://www.lego.com/biassets/bi/6219234.pdf",
         "downloadSize": "2.46 MB",
         "frontpageInfo": "https://www.lego.com/biassets/biimg/6219234.png",
+        "oNum": 0,
+        "isAlternative": false
+      }
+    ],
+    "Searched": true,
+    "Hide": false
+  },
+  {
+    "Code": 31072,
+    "Name": "Extreme Engines",
+    "Theme": "LEGO Creator",
+    "Note": null,
+    "Image": "https://www.lego.com/biassets/prodimg/31072-0000-xx-12-1.jpg",
+    "Launch year": 2017,
+    "Instructions": [
+      {
+        "description": "BI 3003/32, 31072 1/3 V29",
+        "pdfLocation": "https://www.lego.com/biassets/bi/6219241.pdf",
+        "downloadSize": "3.59 MB",
+        "frontpageInfo": "https://www.lego.com/biassets/biimg/6219241.png",
+        "oNum": 0,
+        "isAlternative": false
+      },
+      {
+        "description": "BI 3003/24, 31072 2/3 V29",
+        "pdfLocation": "https://www.lego.com/biassets/bi/6219242.pdf",
+        "downloadSize": "3.45 MB",
+        "frontpageInfo": "https://www.lego.com/biassets/biimg/6219242.png",
+        "oNum": 0,
+        "isAlternative": false
+      },
+      {
+        "description": "BI 3003/20, 31072 3/3 V29",
+        "pdfLocation": "https://www.lego.com/biassets/bi/6219243.pdf",
+        "downloadSize": "2.59 MB",
+        "frontpageInfo": "https://www.lego.com/biassets/biimg/6219243.png",
         "oNum": 0,
         "isAlternative": false
       }
@@ -2590,6 +2694,50 @@
     "Hide": false
   },
   {
+    "Code": 6912,
+    "Name": "Super Soarer",
+    "Theme": "LEGO Creator",
+    "Note": null,
+    "Image": "https://www.lego.com/biassets/prodimg/6912-0000-xx-12-1.jpg",
+    "Launch year": 2012,
+    "Instructions": [
+      {
+        "description": "BI 3004/40 - 6912 V29/39 1/2",
+        "pdfLocation": "https://www.lego.com/biassets/bi/6002106.pdf",
+        "downloadSize": "3.49 MB",
+        "frontpageInfo": "https://www.lego.com/biassets/biimg/6002106.png",
+        "oNum": 0,
+        "isAlternative": false
+      },
+      {
+        "description": "BI 3004/68+4*- 6912 V29/39 2/2",
+        "pdfLocation": "https://www.lego.com/biassets/bi/6002138.pdf",
+        "downloadSize": "4.98 MB",
+        "frontpageInfo": "https://www.lego.com/biassets/biimg/6002138.png",
+        "oNum": 0,
+        "isAlternative": false
+      },
+      {
+        "description": "BI 3004/40 - 6912 V29/39 1/2",
+        "pdfLocation": "https://www.lego.com/biassets/bi/6002158.pdf",
+        "downloadSize": "3.49 MB",
+        "frontpageInfo": "https://www.lego.com/biassets/biimg/6002158.png",
+        "oNum": 0,
+        "isAlternative": false
+      },
+      {
+        "description": "BI 3004/68+4*- 6912 V29/39 2/2",
+        "pdfLocation": "https://www.lego.com/biassets/bi/6002189.pdf",
+        "downloadSize": "4.98 MB",
+        "frontpageInfo": "https://www.lego.com/biassets/biimg/6002189.png",
+        "oNum": 0,
+        "isAlternative": false
+      }
+    ],
+    "Searched": true,
+    "Hide": false
+  },
+  {
     "Code": 70317,
     "Name": "The Fortrex",
     "Theme": "Nexo Knights",
@@ -3518,6 +3666,34 @@
     "Hide": true
   },
   {
+    "Code": 79005,
+    "Name": "The Wizard Battle",
+    "Theme": "LofTR and Hobbit",
+    "Note": null,
+    "Image": "https://www.lego.com/biassets/prodimg/79005-0000-xx-12-1.jpg",
+    "Launch year": 2013,
+    "Instructions": [
+      {
+        "description": "BI 3003/36- 79005 V.29",
+        "pdfLocation": "https://www.lego.com/biassets/bi/6051195.pdf",
+        "downloadSize": "4.7 MB",
+        "frontpageInfo": "https://www.lego.com/biassets/biimg/6051195.png",
+        "oNum": 0,
+        "isAlternative": false
+      },
+      {
+        "description": "BI 3003/36- 79005 V.39",
+        "pdfLocation": "https://www.lego.com/biassets/bi/6051196.pdf",
+        "downloadSize": "4.63 MB",
+        "frontpageInfo": "https://www.lego.com/biassets/biimg/6051196.png",
+        "oNum": 0,
+        "isAlternative": false
+      }
+    ],
+    "Searched": true,
+    "Hide": false
+  },
+  {
     "Code": 853574,
     "Name": "Christmas Ornament Reindeer",
     "Theme": "Merchandise",
@@ -3547,73 +3723,5 @@
     ],
     "Searched": true,
     "Hide": true
-  },
-  {
-    "Code": 21322,
-    "Name": "Pirates of Barracuda Bay",
-    "Theme": "LEGO Ideas",
-    "Note": null,
-    "Image": "https://www.lego.com/biassets/prodimg/21322-0000-xx-12-1.jpg",
-    "Launch year": 2020,
-    "Instructions": [
-      {
-        "description": "BI 3104, 456+4/65+200G, 21322 V.29/118",
-        "pdfLocation": "https://www.lego.com/biassets/bi/6324263.pdf",
-        "downloadSize": "190.27 MB",
-        "frontpageInfo": "https://www.lego.com/biassets/biimg/6324263.png",
-        "oNum": 0,
-        "isAlternative": false
-      },
-      {
-        "description": "BI 3104, 456+4/65+200G, 21322 V.39/142",
-        "pdfLocation": "https://www.lego.com/biassets/bi/6324265.pdf",
-        "downloadSize": "191.84 MB",
-        "frontpageInfo": "https://www.lego.com/biassets/biimg/6324265.png",
-        "oNum": 0,
-        "isAlternative": false
-      },
-      {
-        "description": "Digital Booklet - DE",
-        "pdfLocation": "https://www.lego.com/r/www/r/service/-/media/franchises/customer%20service/ideas/21322/21322_pirate_bay_420x300_bi%20de.pdf?l.r2=-1914862053",
-        "downloadSize": "14.15 MB",
-        "frontpageInfo": "https://www.lego.com/r/www/r/service/-/media/service/service%202015/building%20instructions/ideas%20thumbs/21322.png?l.r2=-1214516992",
-        "oNum": 0,
-        "isAlternative": false
-      },
-      {
-        "description": "Digital Booklet - ES",
-        "pdfLocation": "https://www.lego.com/r/www/r/service/-/media/franchises/customer%20service/ideas/21322/21322_pirate_bay_420x300_bi%20es.pdf?l.r2=-1732601806",
-        "downloadSize": "",
-        "frontpageInfo": "https://www.lego.com/r/www/r/service/-/media/service/service%202015/building%20instructions/ideas%20thumbs/21322.png?l.r2=-1214516992",
-        "oNum": 0,
-        "isAlternative": false
-      },
-      {
-        "description": "Digital Booklet - FR",
-        "pdfLocation": "https://www.lego.com/r/www/r/service/-/media/franchises/customer%20service/ideas/21322/21322_pirate_bay_420x300_bi%20fr.pdf?l.r2=1085093501",
-        "downloadSize": "",
-        "frontpageInfo": "https://www.lego.com/r/www/r/service/-/media/service/service%202015/building%20instructions/ideas%20thumbs/21322.png?l.r2=-1214516992",
-        "oNum": 0,
-        "isAlternative": false
-      },
-      {
-        "description": "Digital Booklet - IT",
-        "pdfLocation": "https://www.lego.com/r/www/r/service/-/media/franchises/customer%20service/ideas/21322/21322_pirate_bay_420x300_bi%20it.pdf?l.r2=-740176168",
-        "downloadSize": "",
-        "frontpageInfo": "https://www.lego.com/r/www/r/service/-/media/service/service%202015/building%20instructions/ideas%20thumbs/21322.png?l.r2=-1214516992",
-        "oNum": 0,
-        "isAlternative": false
-      },
-      {
-        "description": "Digital Booklet - ZH",
-        "pdfLocation": "https://www.lego.com/r/www/r/service/-/media/franchises/customer%20service/ideas/21322/21322_pirate_bay_420x300_bi%20zh.pdf?l.r2=-1340170932",
-        "downloadSize": "",
-        "frontpageInfo": "https://www.lego.com/r/www/r/service/-/media/service/service%202015/building%20instructions/ideas%20thumbs/21322.png?l.r2=-1214516992",
-        "oNum": 0,
-        "isAlternative": false
-      }
-    ],
-    "Searched": true,
-    "Hide": false
   }
 ]
