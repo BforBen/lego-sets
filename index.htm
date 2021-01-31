@@ -52,7 +52,7 @@
                 <img src="{{ set.Image }}" class="card-img-top" alt="{{ set.Name }}">
                 <div class="card-body">
                     <h5 class="card-title">{{ set.Name }}</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">{{ set.Code }}</h6>
+                    <h6 class="card-subtitle mb-2 text-muted"><a href="https://www.lego.com/en-gb/service/buildinginstructions/{{ set.Code }}">{{ set.Code }}</a></h6>
                     <div class="list-group list-group-flush">
                         {% for manual in set.Instructions %}
                         <a href="{{ manual.pdfLocation }}" class="list-group-item list-group-item-action">
